@@ -1,4 +1,4 @@
-# MERN E-Commerce 2024
+# MERN E-Commerce
 
 Welcome to this MERN e-commerce project, which let you build an online store with a React frontend and Node/Express/MongoDB backend. While there might be some grammar mistakes, this doc is meant to be helpful and clarity the project structure.
 
